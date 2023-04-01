@@ -743,10 +743,3 @@ a {
 .footer .copyright {
     padding: 28px 0;
 }
-
-.footer .copyright p {
-    font-size: 1.4rem;
-    line-height: 1.86;
-    text-align: center;
-    color: #807d74;
-}

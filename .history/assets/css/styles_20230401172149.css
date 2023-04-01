@@ -678,7 +678,7 @@ a {
 /*=================================================================== Footer =================================================================== */
 
 .footer {
-    padding: 96px 135px 0;
+    padding: 96px 135px 96px;
     background: #2e2100;
 }
 
@@ -742,11 +742,4 @@ a {
 
 .footer .copyright {
     padding: 28px 0;
-}
-
-.footer .copyright p {
-    font-size: 1.4rem;
-    line-height: 1.86;
-    text-align: center;
-    color: #807d74;
 }

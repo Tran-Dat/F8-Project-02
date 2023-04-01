@@ -678,14 +678,12 @@ a {
 /*=================================================================== Footer =================================================================== */
 
 .footer {
-    padding: 96px 135px 0;
+    padding: 96px 135px 96px;
     background: #2e2100;
 }
 
 .footer .row {
     display: flex;
-    padding-bottom: 38px;
-    border-bottom: 1px solid #59554b;
 }
 
 .footer .row .column {
@@ -738,15 +736,4 @@ a {
 .footer .list strong {
     font-weight: 600;
     color: #ffffff;
-}
-
-.footer .copyright {
-    padding: 28px 0;
-}
-
-.footer .copyright p {
-    font-size: 1.4rem;
-    line-height: 1.86;
-    text-align: center;
-    color: #807d74;
 }
